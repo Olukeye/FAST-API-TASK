@@ -4,12 +4,12 @@ Assessment task
 
 # Technology Stack:
 
-FastAPI
-bcrypy
-Uvicorn (server)
-Sqlalchemy
-Postgres
-⚗ for migration
+  FastAPI
+  bcrypy
+  Uvicorn (server)
+  Sqlalchemy
+  Postgres
+  ⚗ for migration
 
 # How to start the app ?
 * git clone https://github.com/nofoobar/JobBoard-Fastapi.git
