@@ -9,11 +9,12 @@ bcrypy
 Uvicorn (server)
 Sqlalchemy
 Postgres
+⚗ for migration
 
 # How to start the app ?
 * git clone https://github.com/nofoobar/JobBoard-Fastapi.git
 * cd .\JobBoard-Fastapi\
-* python -m venv env   #create a virtual environment
+* py -3 -m venv env   #create a virtual environment
 *  activate your virtual environment ".\env\Scripts\activate.bat"
 * pip install -r .\requirements.txt
 * uvicorn main:app --reload --port 4000    #start server
