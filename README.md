@@ -3,9 +3,9 @@ Assessment task
 
 
 # Technology Stack:
-  FastAPI
+  - FastAPI
+	bcrypy
   Uvicorn (server)
-  Pytest
   Sqlalchemy
   Postgres
 
