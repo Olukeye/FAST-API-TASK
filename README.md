@@ -9,7 +9,7 @@ Assessment task
 	  Uvicorn (server)
 	  Sqlalchemy
 	  Postgres
-	  ⚗ for migration
+	  Alembic for migration
 
 # How to start the app ?
 * git clone https://github.com/nofoobar/JobBoard-Fastapi.git
