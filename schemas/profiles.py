@@ -10,13 +10,3 @@ class Profile(BaseModel):
 class CreateProfileModel(Profile):
      pass
  
- 
-class ProfileOption(BaseModel):
-    id:int
-    username: str
-    bio :str
-    followers:str
-  
-    class Config:
-        orm_mode = True
-  

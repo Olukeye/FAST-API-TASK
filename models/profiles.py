@@ -25,8 +25,7 @@ def create_new_profile(db:Session,user:int=0, username:str=None, bio:str=None, f
     db.add(new_profile)
     db.commit()
     db.refresh(new_profile)
-  
-    
+
     return new_profile
 
 
