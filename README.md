@@ -7,6 +7,7 @@ Assessment task
 	  FastAPI
 	  bcrypt
 	  Uvicorn (server)
+	  psycopg2
 	  Sqlalchemy
 	  Postgres
 	  Alembic for migration
